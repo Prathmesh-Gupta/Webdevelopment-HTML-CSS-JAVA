@@ -15,3 +15,8 @@ Description   : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master
 
 Solution Link : <a href = "https://github.com/Prathmesh-Gupta/Webdevelopment-HTML-CSS-JAVA/commit/8c6e3e326cdd275308042472b62120b619ad8ea6">solution 3</a> 
 
+Week #4 Coding Assignment Solution
+------------------------------------------------------------
+Description   : https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
+
+Solution Link : <a href = "">solution 4</a>
